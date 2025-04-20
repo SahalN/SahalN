@@ -9,11 +9,3 @@ Feel free to explore my repositories where I showcase some of my work and projec
 ### Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/muhammadsahalnurdin/) 💼
-
----
-
-**Learning:** Always exploring new tools and frameworks to stay up-to-date.
-
-Thank you for visiting my profile!
-
----
