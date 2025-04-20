@@ -12,11 +12,7 @@ Feel free to explore my repositories where I showcase some of my work and projec
 
 ---
 
-🔭 **Currently working on:** Improving my skills and contributing to open-source projects.
-
-🌱 **Learning:** Always exploring new tools and frameworks to stay up-to-date.
-
-⚡ **Fun fact:** I believe in continuous learning and enjoy playing RPGs that enhance my programming skills.
+**Learning:** Always exploring new tools and frameworks to stay up-to-date.
 
 Thank you for visiting my profile!
 
